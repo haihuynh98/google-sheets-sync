@@ -1,0 +1,102 @@
+[
+  {
+    "Code": "C001",
+    "Full name": "John Doe",
+    "Phone": "123-456-7890",
+    "Address": "123 Main St, City, Country",
+    "Services": "Service A",
+    "Quantity": 2,
+    "Branch": "Branch 1",
+    "1": "12 months"
+  },
+  {
+    "Code": "C002",
+    "Full name": "Jane Smith",
+    "Phone": "987-654-3210",
+    "Address": "456 Elm St, City, Country",
+    "Services": "Service B",
+    "Quantity": 1,
+    "Branch": "Branch 2",
+    "Warranty Period": "24 months"
+  },
+  {
+    "Code": "C003",
+    "Full name": "Bob Johnson",
+    "Phone": "555-123-4567",
+    "Address": "789 Oak St, City, Country",
+    "Services": "Service A",
+    "Quantity": 3,
+    "Branch": "Branch 1",
+    "Warranty Period": "18 months"
+  },
+  {
+    "Code": "C004",
+    "Full name": "Emily Davis",
+    "Phone": "222-333-4444",
+    "Address": "567 Pine St, City, Country",
+    "Services": "Service C",
+    "Quantity": 1,
+    "Branch": "Branch 2",
+    "Warranty Period": "12 months"
+  },
+  {
+    "Code": "C005",
+    "Full name": "Michael Brown",
+    "Phone": "777-888-9999",
+    "Address": "890 Maple St, City, Country",
+    "Services": "Service B",
+    "Quantity": 2,
+    "Branch": "Branch 1",
+    "Warranty Period": "24 months"
+  },
+  {
+    "Code": "C006",
+    "Full name": "Sarah Wilson",
+    "Phone": "111-222-3333",
+    "Address": "111 Oak St, City, Country",
+    "Services": "Service A",
+    "Quantity": 1,
+    "Branch": "Branch 2",
+    "Warranty Period": "18 months"
+  },
+  {
+    "Code": "C007",
+    "Full name": "David Lee",
+    "Phone": "444-555-6666",
+    "Address": "222 Elm St, City, Country",
+    "Services": "Service B",
+    "Quantity": 2,
+    "Branch": "Branch 1",
+    "Warranty Period": "12 months"
+  },
+  {
+    "Code": "C008",
+    "Full name": "Olivia Taylor",
+    "Phone": "666-777-8888",
+    "Address": "333 Pine St, City, Country",
+    "Services": "Service A",
+    "Quantity": 1,
+    "Branch": "Branch 2",
+    "Warranty Period": "24 months"
+  },
+  {
+    "Code": "C009",
+    "Full name": "James Anderson",
+    "Phone": "333-444-5555",
+    "Address": "444 Oak St, City, Country",
+    "Services": "Service C",
+    "Quantity": 3,
+    "Branch": "Branch 1",
+    "Warranty Period": "18 months"
+  },
+  {
+    "Code": "C010",
+    "Full name": "Ava Harris",
+    "Phone": "888-999-0000",
+    "Address": "555 Main St, City, Country",
+    "Services": "Service B",
+    "Quantity": 2,
+    "Branch": "Branch 2",
+    "Warranty Period": "12 months"
+  }
+]
