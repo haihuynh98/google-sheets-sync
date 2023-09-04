@@ -16,8 +16,8 @@ class GoogleSheetsSyncPlugin
 
     public function __construct()
     {
-        $this->sheet_id = get_field('sheet_id', 'warranty_sheet_settings');
-        $this->sheet_name = get_field('sheet_name', 'warranty_sheet_settings');
+        $this->sheet_id = get_option('warranty_sheet_settings_sheet_id');
+        $this->sheet_name = get_option('warranty_sheet_settings_sheet_name');
         add_action('save_post', [$this, 'append_custom_post_data_to_google_sheets']);
 //// Kiểm tra nếu dữ liệu tồn tại trước khi sử dụng
         if (!$this->sheet_id && !$this->sheet_name) {
