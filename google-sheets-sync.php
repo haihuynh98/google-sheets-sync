@@ -82,5 +82,3 @@ class GoogleSheetsSyncPlugin
 
 }
 
-// Khởi tạo đối tượng của class và gán vào biến $google_sheets_sync_plugin
-$google_sheets_sync_plugin = new GoogleSheetsSyncPlugin();
